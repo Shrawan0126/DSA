@@ -68,17 +68,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Shrawan0126/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shrawan0126/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Shrawan0126/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shrawan0126/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Shrawan0126/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0365-water-and-jug-problem](https://github.com/Shrawan0126/DSA/tree/master/0365-water-and-jug-problem) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Shrawan0126/DSA/tree/master/0365-water-and-jug-problem) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Shrawan0126/DSA/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
