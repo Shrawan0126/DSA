@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shrawan0126/DSA/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Shrawan0126/DSA/tree/master/0268-missing-number) |
 | [0365-water-and-jug-problem](https://github.com/Shrawan0126/DSA/tree/master/0365-water-and-jug-problem) |
+| [0728-self-dividing-numbers](https://github.com/Shrawan0126/DSA/tree/master/0728-self-dividing-numbers) |
 ## Binary Search
 |  |
 | ------- |
