@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Shrawan0126/DSA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1748-sum-of-unique-elements](https://github.com/Shrawan0126/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shrawan0126/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Shrawan0126/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Hash Table
 |  |
 | ------- |
