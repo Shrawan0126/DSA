@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shrawan0126/DSA/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/Shrawan0126/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Shrawan0126/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Enumeration
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shrawan0126/DSA/tree/master/0268-missing-number) |
 | [0365-water-and-jug-problem](https://github.com/Shrawan0126/DSA/tree/master/0365-water-and-jug-problem) |
 | [0728-self-dividing-numbers](https://github.com/Shrawan0126/DSA/tree/master/0728-self-dividing-numbers) |
+| [1486-xor-operation-in-an-array](https://github.com/Shrawan0126/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shrawan0126/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Binary Search
 |  |
