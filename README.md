@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Shrawan0126/DSA/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shrawan0126/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Shrawan0126/DSA/tree/master/1486-xor-operation-in-an-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shrawan0126/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shrawan0126/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3024-type-of-triangle](https://github.com/Shrawan0126/DSA/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Shrawan0126/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shrawan0126/DSA/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shrawan0126/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Shrawan0126/DSA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shrawan0126/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3024-type-of-triangle](https://github.com/Shrawan0126/DSA/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Shrawan0126/DSA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shrawan0126/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Counting
 |  |
 | ------- |
