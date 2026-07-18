@@ -4,8 +4,8 @@ public:
         int i=0,j=s.size()-1;
         while(i<j){
             if(s[i] != s[j]){
-                if(s[i] > s[j]) s[i] = s[j];
-                else s[j] = s[i];
+                char x = min(s[i],s[j]);
+                s[i] = s[j] = x;
             }
             i++;
             j--;
