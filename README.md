@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Shrawan0126/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shrawan0126/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Shrawan0126/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Shrawan0126/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Shrawan0126/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shrawan0126/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shrawan0126/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Shrawan0126/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Shrawan0126/DSA/tree/master/0179-largest-number) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Shrawan0126/DSA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shrawan0126/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Shrawan0126/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Counting
 |  |
 | ------- |
