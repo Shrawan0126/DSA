@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shrawan0126/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Shrawan0126/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3024-type-of-triangle](https://github.com/Shrawan0126/DSA/tree/master/3024-type-of-triangle) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Shrawan0126/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Shrawan0126/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shrawan0126/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Hash Table
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Shrawan0126/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shrawan0126/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3024-type-of-triangle](https://github.com/Shrawan0126/DSA/tree/master/3024-type-of-triangle) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Shrawan0126/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shrawan0126/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Two Pointers
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shrawan0126/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Shrawan0126/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2864-maximum-odd-binary-number](https://github.com/Shrawan0126/DSA/tree/master/2864-maximum-odd-binary-number) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Shrawan0126/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shrawan0126/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Counting
 |  |
