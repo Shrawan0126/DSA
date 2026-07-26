@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Shrawan0126/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shrawan0126/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shrawan0126/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/Shrawan0126/DSA/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2864-maximum-odd-binary-number](https://github.com/Shrawan0126/DSA/tree/master/2864-maximum-odd-binary-number) |
 | [3024-type-of-triangle](https://github.com/Shrawan0126/DSA/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Shrawan0126/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Shrawan0126/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Shrawan0126/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shrawan0126/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/Shrawan0126/DSA/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shrawan0126/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Shrawan0126/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2864-maximum-odd-binary-number](https://github.com/Shrawan0126/DSA/tree/master/2864-maximum-odd-binary-number) |
