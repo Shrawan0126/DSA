@@ -1,18 +1,22 @@
 class Solution:
     def answerQueries(self, nums: List[int], queries: List[int]) -> List[int]:
+        n = len(nums)
         nums.sort()
+        presum = [0] * n
+
+        for i in range(n):
+            presum[i] = presum[i - 1] + nums[i] if i > 0 else nums[i]
 
         res = []
 
-        for i in range(0,len(queries)):
-            sum = 0
-            count = 0
-            for j in range(0,len(nums)):
-                if sum + nums[j] <= queries[i]:
-                    sum += nums[j]
-                    count += 1
+        for q in queries:
+            l,r = 0,n-1
+            while l<=r:
+                mid = (l+r)//2
+                if presum[mid] <= q:
+                    l = mid + 1
                 else:
-                    break
-            res.append(count)
-                
+                    r = mid - 1
+            res.append(l)
+
         return res
