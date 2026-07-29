@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Shrawan0126/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Shrawan0126/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shrawan0126/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Shrawan0126/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shrawan0126/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shrawan0126/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Shrawan0126/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shrawan0126/DSA/tree/master/0268-missing-number) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Shrawan0126/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Shrawan0126/DSA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Shrawan0126/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shrawan0126/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Shrawan0126/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3024-type-of-triangle](https://github.com/Shrawan0126/DSA/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Shrawan0126/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shrawan0126/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Shrawan0126/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Shrawan0126/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shrawan0126/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Shrawan0126/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Shrawan0126/DSA/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shrawan0126/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Shrawan0126/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -155,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Shrawan0126/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Prefix Sum
+|  |
+| ------- |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Shrawan0126/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 <!---LeetCode Topics End-->
