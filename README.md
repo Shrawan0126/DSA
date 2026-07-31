@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2697-lexicographically-smallest-palindrome](https://github.com/Shrawan0126/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2864-maximum-odd-binary-number](https://github.com/Shrawan0126/DSA/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shrawan0126/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shrawan0126/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shrawan0126/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0268-missing-number](https://github.com/Shrawan0126/DSA/tree/master/0268-missing-number) |
 | [1748-sum-of-unique-elements](https://github.com/Shrawan0126/DSA/tree/master/1748-sum-of-unique-elements) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shrawan0126/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shrawan0126/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Math
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Shrawan0126/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shrawan0126/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shrawan0126/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shrawan0126/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3024-type-of-triangle](https://github.com/Shrawan0126/DSA/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Shrawan0126/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shrawan0126/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -151,12 +154,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2697-lexicographically-smallest-palindrome](https://github.com/Shrawan0126/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2864-maximum-odd-binary-number](https://github.com/Shrawan0126/DSA/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shrawan0126/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shrawan0126/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Shrawan0126/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shrawan0126/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Counting
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Shrawan0126/DSA/tree/master/1748-sum-of-unique-elements) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shrawan0126/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
 | ------- |
