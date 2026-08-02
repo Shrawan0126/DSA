@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/Shrawan0126/DSA/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shrawan0126/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shrawan0126/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Shrawan0126/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Stack
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Shrawan0126/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shrawan0126/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shrawan0126/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Shrawan0126/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shrawan0126/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Math
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shrawan0126/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3024-type-of-triangle](https://github.com/Shrawan0126/DSA/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Shrawan0126/DSA/tree/master/3074-apple-redistribution-into-boxes) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Shrawan0126/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shrawan0126/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Two Pointers
 |  |
@@ -161,12 +164,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shrawan0126/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shrawan0126/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Shrawan0126/DSA/tree/master/3074-apple-redistribution-into-boxes) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Shrawan0126/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shrawan0126/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Counting
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Shrawan0126/DSA/tree/master/1748-sum-of-unique-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shrawan0126/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Shrawan0126/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Matrix
 |  |
 | ------- |
