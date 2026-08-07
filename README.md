@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shrawan0126/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shrawan0126/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0179-largest-number](https://github.com/Shrawan0126/DSA/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/Shrawan0126/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Shrawan0126/DSA/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shrawan0126/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Shrawan0126/DSA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shrawan0126/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0229-majority-element-ii](https://github.com/Shrawan0126/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Shrawan0126/DSA/tree/master/0268-missing-number) |
 | [1748-sum-of-unique-elements](https://github.com/Shrawan0126/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shrawan0126/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Shrawan0126/DSA/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/Shrawan0126/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Shrawan0126/DSA/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shrawan0126/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Shrawan0126/DSA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Shrawan0126/DSA/tree/master/0229-majority-element-ii) |
 | [1748-sum-of-unique-elements](https://github.com/Shrawan0126/DSA/tree/master/1748-sum-of-unique-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shrawan0126/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Shrawan0126/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -200,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shrawan0126/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Shrawan0126/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
