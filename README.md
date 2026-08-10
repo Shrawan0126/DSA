@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/Shrawan0126/DSA/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Shrawan0126/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Shrawan0126/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Shrawan0126/DSA/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shrawan0126/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shrawan0126/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/Shrawan0126/DSA/tree/master/3731-find-missing-elements) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shrawan0126/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shrawan0126/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Shrawan0126/DSA/tree/master/3074-apple-redistribution-into-boxes) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Shrawan0126/DSA/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Shrawan0126/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shrawan0126/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shrawan0126/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Shrawan0126/DSA/tree/master/1672-richest-customer-wealth) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Shrawan0126/DSA/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 ## Counting Sort
 |  |
 | ------- |
