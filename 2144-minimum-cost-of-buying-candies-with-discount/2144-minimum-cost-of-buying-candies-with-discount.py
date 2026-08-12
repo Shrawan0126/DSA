@@ -1,6 +1,5 @@
 class Solution:
     def minimumCost(self, cost: List[int]) -> int:
-        # if len(cost) == 1 : return cost[0]
         res,i = 0,0
 
         cost.sort(reverse=True)
