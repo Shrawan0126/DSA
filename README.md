@@ -152,20 +152,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Shrawan0126/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shrawan0126/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Shrawan0126/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Shrawan0126/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shrawan0126/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Shrawan0126/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Shrawan0126/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0365-water-and-jug-problem](https://github.com/Shrawan0126/DSA/tree/master/0365-water-and-jug-problem) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Shrawan0126/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Shrawan0126/DSA/tree/master/0365-water-and-jug-problem) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Shrawan0126/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
