@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Shrawan0126/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [2390-removing-stars-from-a-string](https://github.com/Shrawan0126/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Shrawan0126/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shrawan0126/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Shrawan0126/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Shrawan0126/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Shrawan0126/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Shrawan0126/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0365-water-and-jug-problem](https://github.com/Shrawan0126/DSA/tree/master/0365-water-and-jug-problem) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Shrawan0126/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Shrawan0126/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Shrawan0126/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
