@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Shrawan0126/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shrawan0126/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Shrawan0126/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Shrawan0126/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shrawan0126/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Shrawan0126/DSA/tree/master/0897-increasing-order-search-tree) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Shrawan0126/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0365-water-and-jug-problem](https://github.com/Shrawan0126/DSA/tree/master/0365-water-and-jug-problem) |
 | [0463-island-perimeter](https://github.com/Shrawan0126/DSA/tree/master/0463-island-perimeter) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Shrawan0126/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Shrawan0126/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shrawan0126/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Shrawan0126/DSA/tree/master/0897-increasing-order-search-tree) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Shrawan0126/DSA/tree/master/0365-water-and-jug-problem) |
 | [0463-island-perimeter](https://github.com/Shrawan0126/DSA/tree/master/0463-island-perimeter) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Shrawan0126/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shrawan0126/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Shrawan0126/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Search Tree
